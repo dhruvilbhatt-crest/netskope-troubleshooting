@@ -297,4 +297,4 @@ if __name__ == "__main__":
         stream(sub_key_response, sub_path_response, proxies)
     except Exception as e:
         import traceback
-        print("Error occured: {}".format(traceback.format_exc())
+        print("Error occurred: {}".format(traceback.format_exc()))
